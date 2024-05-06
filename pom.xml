@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.koperkiewiczfilip</groupId>
-    <artifactId>untitled</artifactId>
+    <artifactId>simplemath</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
